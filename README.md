@@ -27,7 +27,7 @@ Người dùng có thể đăng ký, đăng nhập, nhập mô tả hình ảnh 
 ## ⚙️ Hướng dẫn cài đặt và chạy dự án
 
 ### 1. Clone dự án
-git clone https://github.com/ten-cua-ban/ai-image-generator.git
+git clone [https://github.com/ten-cua-ban/ai-image-generator.git](https://github.com/nghuti/AIGenerateWeb.git)
 cd ai-image-generator
 
 ### 2. Cài đặt phần backend (server)
